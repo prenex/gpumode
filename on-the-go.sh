@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mode="workstation"
+mode="on-the-go"
 
 # backup
 echo "Creating backup"
